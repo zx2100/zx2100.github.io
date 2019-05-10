@@ -2681,9 +2681,10 @@ ul.breadcrumb li+li:last-child {
   position: relative;
 }
 .site-meta {
+  margin-top: 5px;
   padding: 20px 0;
   color: #fff;
-  background: #222;
+  background:url(../images/bgimg.jpg);
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .site-meta {
